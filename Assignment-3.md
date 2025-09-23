@@ -29,7 +29,7 @@ This assignment demonstrates an example employee object in **XML**, **YAML**, an
     <lastName>Parkinson</lastName>
     <age>30</age>
     <department>Engineering</department>
-    <jobTitle>Software Developer</jobTitle>
+    <jobTitle>Associate Software Developer</jobTitle>
     <isCatLover>true</isCatLover>
 </Employee>
 ```
@@ -39,7 +39,7 @@ firstName: Mehtap
 lastName: Parkinson
 age: 30
 department: Engineering
-jobTitle: Software Developer
+jobTitle: Associate Software Developer
 isCatLover: true
 ```
 ## JSON Format
@@ -49,7 +49,7 @@ isCatLover: true
   "lastName": "Parkinson",
   "age": 30,
   "department": "Engineering",
-  "jobTitle": "Software Developer",
+  "jobTitle": "Associate Software Developer",
   "isCatLover": true
 }
 ```
